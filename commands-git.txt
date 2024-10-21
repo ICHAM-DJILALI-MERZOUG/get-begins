@@ -6,3 +6,6 @@ Les trois commandes push :
 -git push
 -git push origin <branche> soit main soit master
 -git push -u origin <branche> soit main soit master
+
+Commande qui permet de pull : 
+-git pull
