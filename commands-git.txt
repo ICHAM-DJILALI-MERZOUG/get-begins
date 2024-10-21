@@ -9,3 +9,9 @@ Les trois commandes push :
 
 Commande qui permet de pull : 
 -git pull origin main ou master
+
+Commande pour créer une nouvelle branche :
+-git branch "nom de la branche"
+
+Commande pour switcher de branche : 
+git checkout "nom de la branche"
