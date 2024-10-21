@@ -1,0 +1,8 @@
+commands-git: 
+Cloner un repository : 
+-git clone lien d'accès ou adresse du repository
+
+Les trois commandes push : 
+-git push
+-git push origin <branche> soit main soit master
+-git push -u origin <branche> soit main soit master
